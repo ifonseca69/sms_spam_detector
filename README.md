@@ -19,6 +19,8 @@ The SMS Spam Classification Detector is a machine learning application that pred
 -   **Submit** to get the classification result displayed in the output textbox.
     
 -   Use the provided URL to access and share the app.
+
+
     http://127.0.0.1:7860
     ![sms_spam_interface.](sms_spam_interf.png)
 
